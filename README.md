@@ -1,5 +1,17 @@
-# Backjoon question
-
-<h3> 자료구조 & 알고리즘 </h3>
-- 유클리스 호제법 </br>
-- 하노이의 탑 </br>
+# 백준 문제 풀이모음
+--------
+- 입출력
+  - [15552번 - 빠른 A+B](https://github.com/julia0926/Baekjoon/blob/master/입출력/빠른%20A%2BB%20-%2015552.md)
+- 스택 & 큐
+  - [10828번 - 스택](https://github.com/julia0926/Baekjoon/blob/master/스택%26큐/스택%20-%2010828.md)
+  - [10845번 - 큐](https://github.com/julia0926/Baekjoon/blob/master/스택%26큐/큐%20-%2010845.md)
+- 재귀함수
+  - [10872번 - 팩토리얼](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/팩토리얼%20-%2010872.md)
+  - [1929번 - 소수 구하기](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/소수%20구하기%20-%201929.md)
+  - [10870번 - 피보나치 수](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/피보나치%20수%20-%2010870.md)
+  - [1914번 - 하노이의 탑](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/하노이의%20탑%20-%201914.md)
+- 정렬
+  -  [1427번 - 소트인사이드](https://github.com/julia0926/Baekjoon/blob/master/정렬/소트인사이드%20-%201427.md)
+  -  [2751번 - 수 정렬하기2](https://github.com/julia0926/Baekjoon/blob/master/정렬/수%20정렬%202%20-%202751.md)
+  -  [11650번 - 좌표 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/좌표%20정렬%20-%2011650.md)
+  -  [11651번 - 좌표 정렬 2](https://github.com/julia0926/Baekjoon/blob/master/정렬/좌표정렬%202%20-%2011651.md)
