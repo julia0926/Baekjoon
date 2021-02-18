@@ -17,3 +17,4 @@
   -  [11651번 - 좌표 정렬 2](https://github.com/julia0926/Baekjoon/blob/master/정렬/좌표정렬%202%20-%2011651.md)
   -  [1181번 - 단어 정렬 ](https://github.com/julia0926/Baekjoon/blob/master/정렬/단어%20정렬%20-%201181.md)
   -  [10814번 - 나이순 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/나이순%20정렬%20-%2010814.md)
+  -  [5635번 - 생일](https://github.com/julia0926/Baekjoon/blob/master/정렬/생일%20-%205635.md)
