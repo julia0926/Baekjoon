@@ -15,4 +15,5 @@
   -  [2751번 - 수 정렬하기2](https://github.com/julia0926/Baekjoon/blob/master/정렬/수%20정렬%202%20-%202751.md)
   -  [11650번 - 좌표 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/좌표%20정렬%20-%2011650.md)
   -  [11651번 - 좌표 정렬 2](https://github.com/julia0926/Baekjoon/blob/master/정렬/좌표정렬%202%20-%2011651.md)
-  -  [ 1181번 - 단어 정렬 ](https://github.com/julia0926/Baekjoon/blob/master/정렬/단어%20정렬%20-%201181.md)
+  -  [1181번 - 단어 정렬 ](https://github.com/julia0926/Baekjoon/blob/master/정렬/단어%20정렬%20-%201181.md)
+  -  [10814번 - 나이순 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/나이순%20정렬%20-%2010814.md)
