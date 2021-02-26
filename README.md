@@ -19,3 +19,9 @@
   -  [10814번 - 나이순 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/나이순%20정렬%20-%2010814.md)
   -  [5635번 - 생일](https://github.com/julia0926/Baekjoon/blob/master/정렬/생일%20-%205635.md)
   -  [2822번 - 점수계산](https://github.com/julia0926/Baekjoon/blob/master/정렬/점수%20계산%20-%202822.md)
+- 그리디
+  - [11047번 - 동전 0]
+  - [2217번 - 로프]
+  - [1541번 - 잃어버린 괄호]
+  - [1931번 - 회의실 배정]
+  - [1946번 - 신입사원]
