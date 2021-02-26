@@ -20,8 +20,8 @@
   -  [5635번 - 생일](https://github.com/julia0926/Baekjoon/blob/master/정렬/생일%20-%205635.md)
   -  [2822번 - 점수계산](https://github.com/julia0926/Baekjoon/blob/master/정렬/점수%20계산%20-%202822.md)
 - 그리디
-  - [11047번 - 동전 0]
-  - [2217번 - 로프]
-  - [1541번 - 잃어버린 괄호]
-  - [1931번 - 회의실 배정]
-  - [1946번 - 신입사원]
+  - [11047번 - 동전 0](https://github.com/julia0926/Baekjoon/blob/master/그리디/11047.md)
+  - [2217번 - 로프] (https://github.com/julia0926/Baekjoon/blob/master/그리디/2217.md)
+  - [1541번 - 잃어버린 괄호] (https://github.com/julia0926/Baekjoon/blob/master/그리디/1541.md)
+  - [1931번 - 회의실 배정] (https://github.com/julia0926/Baekjoon/blob/master/그리디/1931.md)
+  - [1946번 - 신입사원] (https://github.com/julia0926/Baekjoon/blob/master/그리디/1946.md)
