@@ -25,3 +25,8 @@
   - [1541번 - 잃어버린 괄호](https://github.com/julia0926/Baekjoon/blob/master/그리디/1541.md)
   - [1931번 - 회의실 배정](https://github.com/julia0926/Baekjoon/blob/master/그리디/1931.md)
   - [1946번 - 신입사원](https://github.com/julia0926/Baekjoon/blob/master/그리디/1946.md)
+- 우선순위 큐
+  - [11279번 - 최대 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/11279.md)
+  - [1927번 - 최소 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/1927.md)
+  - [11286번 - 절댓값 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/11286.md)
+  - [1655번 - 가운데를 말해요](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/1655.md)
