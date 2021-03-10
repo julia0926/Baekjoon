@@ -5,6 +5,8 @@
 - 스택 & 큐
   - [10828번 - 스택](https://github.com/julia0926/Baekjoon/blob/master/스택%26큐/스택%20-%2010828.md)
   - [10845번 - 큐](https://github.com/julia0926/Baekjoon/blob/master/스택%26큐/큐%20-%2010845.md)
+  - [9012번 - 괄호](https://github.com/julia0926/Baekjoon/blob/master/%EC%8A%A4%ED%83%9D%26%ED%81%90/9012.md)
+  - [4949번 - 균형잡힌 세상](https://github.com/julia0926/Baekjoon/blob/master/%EC%8A%A4%ED%83%9D%26%ED%81%90/4949.md)
 - 재귀함수
   - [10872번 - 팩토리얼](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/팩토리얼%20-%2010872.md)
   - [1929번 - 소수 구하기](https://github.com/julia0926/Baekjoon/blob/master/재귀함수/소수%20구하기%20-%201929.md)
