@@ -30,3 +30,4 @@
   - [1927번 - 최소 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/1927.md)
   - [11286번 - 절댓값 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/11286.md)
   - [1655번 - 가운데를 말해요](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/1655.md)
+  - [1715번 - 카드 정렬하기](https://github.com/julia0926/Baekjoon/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/1715.md)
