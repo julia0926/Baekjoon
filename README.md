@@ -22,6 +22,7 @@
   -  [10814번 - 나이순 정렬](https://github.com/julia0926/Baekjoon/blob/master/정렬/나이순%20정렬%20-%2010814.md)
   -  [5635번 - 생일](https://github.com/julia0926/Baekjoon/blob/master/정렬/생일%20-%205635.md)
   -  [2822번 - 점수계산](https://github.com/julia0926/Baekjoon/blob/master/정렬/점수%20계산%20-%202822.md)
+  -  [7568번 - 덩치](https://github.com/julia0926/Baekjoon/blob/master/%EC%A0%95%EB%A0%AC/7568.md)
 - 그리디
   - [11047번 - 동전 0](https://github.com/julia0926/Baekjoon/blob/master/그리디/11047.md)
   - [2217번 - 로프](https://github.com/julia0926/Baekjoon/blob/master/그리디/2217.md)
