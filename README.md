@@ -1,5 +1,4 @@
 # 백준 문제 풀이모음
---------
 - 입출력
   - [15552번 - 빠른 A+B](https://github.com/julia0926/Baekjoon/blob/master/입출력/빠른%20A%2BB%20-%2015552.md)
 - 스택 & 큐
@@ -37,3 +36,5 @@
   - [11286번 - 절댓값 힙](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/11286.md)
   - [1655번 - 가운데를 말해요](https://github.com/julia0926/Baekjoon/blob/master/우선순위%20큐/1655.md)
   - [1715번 - 카드 정렬하기](https://github.com/julia0926/Baekjoon/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/1715.md)
+- BFS
+  - [2178번 - 미로 탐색](https://github.com/julia0926/Baekjoon/blob/master/BFS/2178.md)
