@@ -42,4 +42,4 @@
   - [12865번 - 평범한 배낭](https://github.com/julia0926/Baekjoon/blob/master/%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/12865.md)
   - [2156번 - 포도주 시식](https://github.com/julia0926/Baekjoon/blob/master/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2156.md)
 - 최단경로
-  - [1753번 - 최단경로(다익스트라)](https://github.com/julia0926/Baekjoon/tree/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
+  - [1753번 - 최단경로(다익스트라)](https://github.com/julia0926/Baekjoon/blob/master/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/1753.md)
