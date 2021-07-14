@@ -38,6 +38,8 @@
   - [1715번 - 카드 정렬하기](https://github.com/julia0926/Baekjoon/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/1715.md)
 - BFS
   - [2178번 - 미로 탐색](https://github.com/julia0926/Baekjoon/blob/master/BFS/2178.md)
+- DFS
+  - [1987번 - 알파벳](https://github.com/julia0926/Baekjoon/tree/master/DFS/1987.md)  
 - 다이나믹 프로그래밍 (DP)
   - [12865번 - 평범한 배낭](https://github.com/julia0926/Baekjoon/blob/master/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/12865.md)
   - [2156번 - 포도주 시식](https://github.com/julia0926/Baekjoon/blob/master/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2156.md)
